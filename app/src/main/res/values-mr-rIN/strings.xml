@@ -1,3 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">"माझी अहिराणी "</string>
+    <string name="category_phrases">"वाक्य "</string>
+    <string name="category_colors">"रंग "</string>
+    <string name="category_numbers">"संख्या "</string>
+    <string name="category_family">"नातवंडे "</string>
+    <string name="One">"एक "</string>
+    <string name="Two">"दोन "</string>
+    <string name="Three">तीन</string>
+    <string name="Four">चार</string>
+    <string name="Five">"पाच "</string>
+    <string name="Six">"सहा "</string>
+    <string name="Seven">"सात "</string>
+    <string name="Eight">"आठ "</string>
+    <string name="Nine">"नउ "</string>
+    <string name="Ten">"दहा "</string>
 </resources>

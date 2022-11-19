@@ -14,7 +14,7 @@
 -->
 <resources>
     <!-- Title for the application. [CHAR LIMIT=12] -->
-    <string name="app_name">Miwok</string>
+    <string name="app_name">My Ahirani</string>
 
     <!-- Category name for phrases [CHAR LIMIT=20] -->
     <string name="category_phrases">Phrases</string>
@@ -27,4 +27,27 @@
 
     <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
     <string name="category_family">Family Members</string>
+    <string name="One">One</string>
+    <string name="Two">Two</string>
+    <string name="Three">Three</string>
+    <string name="Four">Four</string>
+    <string name="Five">Five</string>
+    <string name="Six">Six</string>
+    <string name="Seven">Seven</string>
+    <string name="Eight">Eight</string>
+    <string name="Nine">Nine</string>
+    <string name="Ten">Ten</string>
+
+    <string name="Ek">Ek</string>
+    <string name="Don">Don</string>
+    <string name="Teen">Teen</string>
+    <string name="Char">Char</string>
+    <string name="Pach">Pach</string>
+    <string name="Sau">Sau</string>
+    <string name="Saat">Saat</string>
+    <string name="Aath">Aath</string>
+    <string name="Nau">Nau</string>
+    <string name="Daha">Daha</string>
+
+
 </resources>
